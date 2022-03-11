@@ -1,3 +1,6 @@
+# Get Mouse Position in Real Time
+# Version 2.0
+# Dev:- Joel Dcosta
 # Import the required libraries
 from tkinter import *
 import pyautogui
